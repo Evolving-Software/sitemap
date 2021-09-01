@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-01T16:30:22.540Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="IsMF3KqVVkh0wDPH1zyi" version="15.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-01T21:21:24.204Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="Ab50Igbp-xwuRPYIZWTK" version="15.0.4" type="github" pages="3">
   <diagram name="SiteMap" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="1038" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -163,7 +163,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="J-a-brFvq0_6sS7R5YtG" name="HOME PAGE V 1.1">
-    <mxGraphModel dx="865" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="BGmKIyDoyLeNU-7G1Cmy-0" />
         <mxCell id="BGmKIyDoyLeNU-7G1Cmy-1" parent="BGmKIyDoyLeNU-7G1Cmy-0" />
@@ -190,17 +190,11 @@
         <mxCell id="P1qSKVLDFPpiqFfv-0Hy-1" value="Newsletter / Contact" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="jG2-etzwzPDL7pPP_-wX-0" vertex="1">
           <mxGeometry width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="P1qSKVLDFPpiqFfv-0Hy-3" value="Image / Graphics / Illustrator" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};align=center;" parent="jG2-etzwzPDL7pPP_-wX-0" vertex="1">
-          <mxGeometry y="200" width="200" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="P1qSKVLDFPpiqFfv-0Hy-5" value="Who We Are" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};align=center;" parent="jG2-etzwzPDL7pPP_-wX-0" vertex="1">
-          <mxGeometry x="200" y="200" width="200" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="P1qSKVLDFPpiqFfv-0Hy-6" value="Image / Graphics / Illustrator" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};align=center;" parent="jG2-etzwzPDL7pPP_-wX-0" vertex="1">
-          <mxGeometry x="200" y="350" width="200" height="130" as="geometry" />
+          <mxGeometry x="200" y="490" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="P1qSKVLDFPpiqFfv-0Hy-7" value="Who We are" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};align=center;" parent="jG2-etzwzPDL7pPP_-wX-0" vertex="1">
-          <mxGeometry y="350" width="200" height="130" as="geometry" />
+          <mxGeometry y="490" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="P1qSKVLDFPpiqFfv-0Hy-8" value="CTA About Us" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="jG2-etzwzPDL7pPP_-wX-0" vertex="1">
           <mxGeometry x="45" y="440" width="130" height="20" as="geometry" />
@@ -209,43 +203,43 @@
           <mxGeometry x="55" y="160" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="P1qSKVLDFPpiqFfv-0Hy-11" value="SUBSCRIBE / CTA" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="jG2-etzwzPDL7pPP_-wX-0" vertex="1">
-          <mxGeometry x="5" y="640" width="390" height="90" as="geometry" />
+          <mxGeometry x="5" y="780" width="390" height="90" as="geometry" />
         </mxCell>
         <mxCell id="P1qSKVLDFPpiqFfv-0Hy-12" value="CTA TO ABOUT" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="jG2-etzwzPDL7pPP_-wX-0" vertex="1">
           <mxGeometry x="245" y="290" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DymqzSz5TqGvev72PZp9-0" value="FEATURES / SPECIALITIES WITH ICONOGRAPHY" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="jG2-etzwzPDL7pPP_-wX-0" vertex="1">
-          <mxGeometry y="200" width="400" height="150" as="geometry" />
+          <mxGeometry y="340" width="400" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="3KC64CUfAM22c0QiMJpz-1" value="Our Clients" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jG2-etzwzPDL7pPP_-wX-0">
-          <mxGeometry y="890" width="400" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="3KC64CUfAM22c0QiMJpz-2" value="Footer With 3 or 4 Columns" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jG2-etzwzPDL7pPP_-wX-0">
-          <mxGeometry y="1310" width="400" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="3KC64CUfAM22c0QiMJpz-3" value="Absolute Footer / Copyright Info&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jG2-etzwzPDL7pPP_-wX-0">
-          <mxGeometry y="1450" width="400" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PzhoChceJjHCxGLe_w6G-5" value="What We Do" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};align=center;" vertex="1" parent="jG2-etzwzPDL7pPP_-wX-0">
-          <mxGeometry x="200" y="480" width="200" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="PzhoChceJjHCxGLe_w6G-6" value="Image / Graphics / Illustrator" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};align=center;" vertex="1" parent="jG2-etzwzPDL7pPP_-wX-0">
-          <mxGeometry y="480" width="200" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="PzhoChceJjHCxGLe_w6G-7" value="CTA Services" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="jG2-etzwzPDL7pPP_-wX-0">
-          <mxGeometry x="235" y="570" width="130" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="C5TL-yRSpd9o5aZIneyY-0" value="Testimonials" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jG2-etzwzPDL7pPP_-wX-0">
+        <mxCell id="3KC64CUfAM22c0QiMJpz-1" value="Our Clients" style="rounded=0;whiteSpace=wrap;html=1;" parent="jG2-etzwzPDL7pPP_-wX-0" vertex="1">
           <mxGeometry y="1030" width="400" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="C5TL-yRSpd9o5aZIneyY-1" value="Social Media" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jG2-etzwzPDL7pPP_-wX-0">
+        <mxCell id="3KC64CUfAM22c0QiMJpz-2" value="Footer With 3 or 4 Columns" style="rounded=0;whiteSpace=wrap;html=1;" parent="jG2-etzwzPDL7pPP_-wX-0" vertex="1">
+          <mxGeometry y="1310" width="400" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="3KC64CUfAM22c0QiMJpz-3" value="Absolute Footer / Copyright Info&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="jG2-etzwzPDL7pPP_-wX-0" vertex="1">
+          <mxGeometry y="1450" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PzhoChceJjHCxGLe_w6G-5" value="What We Do" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};align=center;" parent="jG2-etzwzPDL7pPP_-wX-0" vertex="1">
+          <mxGeometry x="200" y="620" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="PzhoChceJjHCxGLe_w6G-6" value="Image / Graphics / Illustrator" style="whiteSpace=wrap;html=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};align=center;" parent="jG2-etzwzPDL7pPP_-wX-0" vertex="1">
+          <mxGeometry y="620" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="PzhoChceJjHCxGLe_w6G-7" value="CTA Services" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="jG2-etzwzPDL7pPP_-wX-0" vertex="1">
+          <mxGeometry x="235" y="570" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="C5TL-yRSpd9o5aZIneyY-0" value="Testimonials" style="rounded=0;whiteSpace=wrap;html=1;" parent="jG2-etzwzPDL7pPP_-wX-0" vertex="1">
           <mxGeometry y="1170" width="400" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="C5TL-yRSpd9o5aZIneyY-2" value="Data / Numbers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jG2-etzwzPDL7pPP_-wX-0">
-          <mxGeometry y="750" width="400" height="140" as="geometry" />
+        <mxCell id="C5TL-yRSpd9o5aZIneyY-2" value="Data / Numbers" style="rounded=0;whiteSpace=wrap;html=1;" parent="jG2-etzwzPDL7pPP_-wX-0" vertex="1">
+          <mxGeometry y="890" width="400" height="140" as="geometry" />
         </mxCell>
         <mxCell id="P1qSKVLDFPpiqFfv-0Hy-10" value="CONTACT US" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="jG2-etzwzPDL7pPP_-wX-0" vertex="1">
           <mxGeometry x="220" y="160" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="C5TL-yRSpd9o5aZIneyY-1" value="Social Media" style="rounded=0;whiteSpace=wrap;html=1;" parent="jG2-etzwzPDL7pPP_-wX-0" vertex="1">
+          <mxGeometry y="200" width="400" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
